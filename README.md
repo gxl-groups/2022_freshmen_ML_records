@@ -8,6 +8,7 @@
 2.   [cs229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 3.   [机器学习周志华](./参考书籍/机器学习_周志华.pdf)
 4.   [统计学习方法](./参考书籍/统计学习方法_李航.pdf)
+5.   [机器学习基石](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)(SVM部分特别精彩)
 
 
 
